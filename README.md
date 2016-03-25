@@ -1,4 +1,4 @@
-Adam's tmux setup
+Steve's (stolen from AdamWhittingham) tmux setup
 =================
 Keybindings, status bar and some misc. behavioural changes to make tmux more
 awesome for development and server ops without going too far.
@@ -6,7 +6,7 @@ awesome for development and server ops without going too far.
 Installation
 ------------
 ```
-git clone https://github.com/AdamWhittingham/tmux-config.git ~/.tmux-config
+git clone https://github.com/SteveParrington/tmux-config.git ~/.tmux-config
 ln -s ~/.tmux-config/tmux.conf ~/.tmux.conf
 ```
 
